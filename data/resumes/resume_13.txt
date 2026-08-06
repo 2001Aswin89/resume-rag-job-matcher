@@ -1,0 +1,36 @@
+Kavita Krishnan
+Email: kavita.krishnan.ml@yahoo.com
+Phone: +91 97112 34567
+LinkedIn: linkedin.com/in/kavitakrishnan-ai
+GitHub: github.com/kavitakrishnan-ai
+
+PROFESSIONAL SUMMARY
+Machine Learning & AI Research Engineer with 3 years of experience specializing in Natural Language Processing (NLP), Transformer models, and vector database retrieval. Proficient in PyTorch, Hugging Face, LangChain, and Qdrant.
+
+TECHNICAL SKILLS
+Languages: Python, C++, SQL
+ML/DL: PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers, OpenCV
+LLM & Vector DBs: LangChain, LlamaIndex, Pinecone, Qdrant, ChromaDB
+Deployment: FastAPI, Docker, ONNX Runtime, AWS SageMaker
+
+EXPERIENCE
+
+AI / Machine Learning Engineer | Fractal Analytics
+Jan 2023 - Present
+• Engineered a Retrieval-Augmented Generation (RAG) system using LangChain, Hugging Face embeddings, and Qdrant to search domain-specific enterprise documents, achieving 92% retrieval accuracy.
+• Fine-tuned Llama-3 models on custom domain datasets using LoRA/QLoRA techniques, cutting token inference costs by 40%.
+• Deployed real-time inference microservices using FastAPI and Docker on AWS SageMaker.
+
+Junior ML Developer | Analytics Edge
+Jun 2021 - Dec 2022
+• Developed text classification and named-entity recognition (NER) models for financial news sentiment extraction using Scikit-Learn and SpaCy.
+• Built automated ETL pipelines to ingest and preprocess millions of text documents using PySpark and Pandas.
+
+PROJECTS
+- Autonomous Research Assistant: Built an open-source AI agent using LangChain and Python that synthesizes research papers into structured summaries.
+- Real-Time Facial Emotion Recognizer: Developed an edge-deployable CNN computer vision model using PyTorch and OpenCV.
+
+EDUCATION
+M.Tech in Artificial Intelligence | IIT Kharagpur (2021)
+B.Tech in Computer Science | NIT Trichy (2019)
+================================================================================

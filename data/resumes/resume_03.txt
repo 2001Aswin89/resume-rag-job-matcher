@@ -1,0 +1,39 @@
+Priya Nair
+Email: priya.nair.ml@gmail.com
+Phone: +91 99887 76655
+LinkedIn: linkedin.com/in/priyanair-data
+GitHub: github.com/priyanair-ml
+
+Professional Summary
+Data Scientist and Machine Learning Engineer with 6 years of expertise in NLP, Computer Vision, and predictive modeling. Skilled in deploying production-grade ML models using Python, PyTorch, and cloud environments. Strong background in statistical analysis and deep learning architecture.
+
+Skills:
+Python, R, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV, Docker, MLflow, AWS SageMaker, SQL, FastAPI.
+
+Experience
+
+Senior Machine Learning Engineer
+Deloitte USI
+01/2023 - Present
+Led a team of data scientists to build an LLM-based document processing engine, reducing manual document review time by 60%. Deployed computer vision models for automated document verification on AWS SageMaker with MLflow monitoring.
+
+Data Scientist
+Fractal Analytics
+06/2019 - 12/2022
+Built customer churn prediction models using XGBoost and LightGBM, boosting retention rates by 14%. Designed automated data cleaning pipelines handling millions of daily sensor events.
+
+Projects
+- Healthcare Medical Image Classifier: Developed a PyTorch CNN model to detect anomalies in chest X-rays with 94% accuracy.
+- Automated Customer Feedback Sentiment Engine: Built a real-time BERT-based sentiment analyzer integrated with Kafka pipelines.
+
+Education
+Master of Science in Data Science | BITS Pilani (2019)
+Bachelor of Science in Statistics | St. Xavier's College, Mumbai (2017)
+
+Certifications
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certificate
+
+Languages
+English, Hindi, Malayalam
+================================================================================

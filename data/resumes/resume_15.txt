@@ -1,0 +1,41 @@
+Ankit Verma
+Email: ankit.verma.fs@gmail.com
+Phone: +91 99001 12233
+LinkedIn: linkedin.com/in/ankitverma-dev
+GitHub: github.com/ankitverma-dev
+
+Professional Summary
+Full Stack Software Engineer with 6 years of experience building scalable enterprise web applications using Node.js, React, and Java Spring Boot. Experienced in REST API architecture, database design, and cloud deployments.
+
+Technical Skills
+- Frontend: React.js, Redux, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js, Java, Spring Boot, Hibernate
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
+- Tools & Cloud: Docker, AWS (EC2, S3), Git, Jira, Postman
+
+Professional Experience
+
+Senior Full Stack Engineer
+Capgemini | Bangalore
+02/2022 - Present
+- Developed full-stack modules for a global insurance client using React and Java Spring Boot.
+- Designed relational database schemas on PostgreSQL and optimized SQL queries, improving backend response times by 30%.
+- Implemented microservices authentication using Spring Security and OAuth2 tokens.
+
+Full Stack Developer
+Mindtree | Hyderabad
+08/2018 - 01/2022
+- Built responsive web dashboards using React.js and Redux for internal administrative management.
+- Developed RESTful web services using Node.js and Express, connecting to MongoDB collections.
+- Authored automated unit test cases using Jest and Mocha/Chai.
+
+Education
+B.E. in Computer Science | Osmania University, Hyderabad (2018)
+
+Projects
+- HealthCare Patient Portal: A full-stack web application for scheduling appointments and viewing lab reports using React, Node.js, and PostgreSQL.
+- Collaborative Document Editor: Built a real-time rich text editor using React and Socket.io.
+
+Certifications
+Oracle Certified Associate, Java SE 8 Programmer
+================================================================================

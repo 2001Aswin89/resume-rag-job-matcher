@@ -1,0 +1,33 @@
+Job Title: Lead Frontend Developer
+
+Company: Nexa Digital Commerce
+
+Summary:
+Nexa Digital Commerce is looking for a Lead Frontend Engineer to drive the next-generation web user experience for our enterprise e-commerce platform. In this role, you will lead frontend architectural decisions, build reusable component libraries, and optimize client-side web performance.
+
+Responsibilities:
+- Architect and develop modern, scalable web applications using React, TypeScript, and Next.js.
+- Champion frontend best practices, design system standards, web accessibility (a11y), and state management patterns.
+- Optimize application loading speeds, bundle sizes, and core web vitals across web platforms.
+- Partner with UI/UX designers to translate Figma wireframes into pixel-perfect user interfaces.
+
+Required Skills:
+- React, Modern JavaScript (ES6+), HTML5, CSS3, SASS/Tailwind CSS.
+- TypeScript, State Management (Redux/Zustand), Next.js.
+- Automated UI testing using Jest, React Testing Library, or Cypress.
+
+Preferred Skills:
+- GraphQL integration experience.
+- Exposure to micro-frontend architectures.
+
+Must Have Requirements:
+- Must have React and TypeScript.
+- Must have 4+ years of experience with frontend engineering.
+- Must have Web Performance Optimization experience.
+
+Experience Required:
+4+ years of professional web application development experience.
+
+Education:
+Bachelor’s or Master’s degree in Computer Science or equivalent work experience.
+================================================================================

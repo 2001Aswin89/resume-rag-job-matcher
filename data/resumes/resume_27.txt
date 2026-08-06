@@ -1,0 +1,34 @@
+Deepak Reddy
+Email: deepak.reddy.mobile@gmail.com
+Phone: +91 99490 12345
+LinkedIn: linkedin.com/in/deepakreddy-mobile
+GitHub: github.com/deepakreddy-dev
+
+SUMMARY
+Android & Mobile Developer with 4.5 years of native mobile development experience using Kotlin and Java. Skilled in Android SDK, Jetpack Compose, MVVM architecture, and REST API integration.
+
+SKILLS
+- Languages: Kotlin, Java
+- Android Components: Jetpack Compose, Room DB, Retrofit, Coroutines, LiveData, Dagger/Hilt
+- Tools: Android Studio, Git, Postman, Firebase Crashlytics, Bitrise
+
+WORK EXPERIENCE
+
+Android Developer | PhonePe
+05/2022 - Present
+• Built merchant payment acceptance flows using Kotlin and Jetpack Compose.
+• Implemented local transaction storage using Room DB and asynchronous tasks using Kotlin Coroutines.
+• Optimized application memory footprint, reducing app crash instances by 35%.
+
+Junior Android Engineer | AppTech Studios
+11/2019 - 04/2022
+• Developed native Android applications using Java and Kotlin with MVVM architecture.
+• Integrated REST APIs using Retrofit and parsed JSON data payloads.
+• Configured Firebase Cloud Messaging (FCM) for targeted push notifications.
+
+EDUCATION
+B.Tech in Computer Science | JNTU Hyderabad (2019)
+
+PROJECTS
+- Real-Time Crypto Tracker: Native Kotlin Android application utilizing Retrofit, Jetpack Compose, and WebSocket connections.
+================================================================================

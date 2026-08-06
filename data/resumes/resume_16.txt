@@ -1,0 +1,31 @@
+Siddharth Malhotra
+Email: siddharth.m.pm@gmail.com
+Phone: +91 98334 55667
+LinkedIn: linkedin.com/in/siddharthmalhotra-pm
+
+SUMMARY
+Technical Product Manager with 5 years of experience leading cross-functional engineering teams in fintech and e-commerce domains. Skilled in backlog prioritization, defining system requirements, API specifications, and conversion rate optimization.
+
+SKILLS:
+Product Management, Agile/Scrum, User Stories, PRDs, Wireframing, SQL, Postman, Mixpanel, Google Analytics, Jira, Confluence, Figma.
+
+EXPERIENCE:
+
+Product Manager | Flipkart
+05/2022 - Present
+• Owned the checkout and payment funnel, driving a 4.2% increase in checkout conversion rates through A/B testing and checkout flow simplification.
+• Authored comprehensive Product Requirement Documents (PRDs) and technical acceptance criteria for backend payment gateway integrations.
+• Led daily stand-ups, sprint planning, and backlog grooming for a dedicated squad of 10 developers and QA engineers.
+
+Associate Product Manager | PhonePe
+07/2019 - 04/2022
+• Managed merchant analytics dashboard features used by over 500k small business owners.
+• Conducted user interviews and quantitative data analysis using SQL and Mixpanel to identify user drop-off points.
+
+EDUCATION:
+MBA | SPJIMR, Mumbai (2019)
+B.Tech in Computer Science | Delhi Technological University (DTU) (2017)
+
+AWARDS:
+- Flipkart Outstanding Product Manager Award Q3 2023
+================================================================================

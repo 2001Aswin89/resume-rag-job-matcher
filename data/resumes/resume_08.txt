@@ -1,0 +1,42 @@
+Marcus Vance
+Email: marcus.vance.cloud@gmail.com
+Phone: +1 (555) 789-0123
+LinkedIn: linkedin.com/in/marcusvance-cloud
+GitHub: github.com/marcusvance-cloud
+
+PROFESSIONAL SUMMARY
+Senior Cloud Solutions Architect with 13 years of enterprise experience specializing in cloud migrations, serverless architectures, and multi-cloud governance across AWS and GCP platforms.
+
+SKILLS
+Cloud Architecture: AWS (IAM, VPC, CloudFront, Lambda, ECS, DynamoDB), GCP (Compute Engine, BigQuery).
+Infrastructure & Security: Terraform, CloudFormation, Vault, VPC Peering, OAuth2, SAML.
+Programming & Operations: Python, Bash, Docker, Kubernetes, CI/CD, FinOps.
+
+WORK EXPERIENCE
+
+Principal Cloud Engineer | IBM
+2020 - Present
+- Architected enterprise cloud infrastructure on AWS for Fortune 500 clients, ensuring 99.99% availability.
+- Reduced overall cloud infrastructure expenditure by 32% across 50+ enterprise workloads through FinOps practices.
+- Implemented zero-trust architecture blueprints using IAM, Vault, and AWS Security Hub.
+
+Lead Cloud Developer | Amazon Web Services (AWS)
+05/2015 - 11/2019
+- Assisted enterprise customers in migrating complex on-premise infrastructure to AWS serverless setups.
+- Built reusable CloudFormation and Terraform modules used internally by over 200 software teams.
+
+Software Engineer | Dell Technologies
+07/2011 - 04/2015
+- Developed storage management automation utilities using Python and C++.
+- Maintained Linux infrastructure and automated data center provisioning using Shell scripts.
+
+EDUCATION
+B.S. in Computer Engineering | Georgia Institute of Technology (2011)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Professional
+- Google Cloud Certified Professional Cloud Architect
+
+INTERESTS
+Cloud Native Computing, Open Source Contribution, Marathon Running
+================================================================================

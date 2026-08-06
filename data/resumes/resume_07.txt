@@ -1,0 +1,34 @@
+Ananya Sen
+Email: ananya.sen.qa@yahoo.com
+Phone: +91 94321 09876
+LinkedIn: linkedin.com/in/ananyasen-qa
+
+SUMMARY:
+Detail-oriented Quality Assurance Engineer with 3.5 years of expertise in automated and manual software testing. Specialized in API testing, UI automation using Selenium, and regression frameworks.
+
+TECHNICAL SKILLS:
+Selenium WebDriver, Java, TestNG, Cucumber (BDD), Postman, REST Assured, JIRA, Git, Jenkins, SQL.
+
+EXPERIENCE:
+
+QA Automation Engineer
+Cognizant | Kolkata
+Jan 2023 - Present
+Created and executed automated regression test scripts using Selenium with Java and TestNG. Integrated test automation suites into Jenkins CI/CD pipelines to run nightly builds. Identified, logged, and tracked software bugs using JIRA, working alongside backend developers to resolve issues.
+
+Software Test Engineer
+Wipro Technologies
+08/2021 - 12/2022
+Executed manual API tests using Postman and automated backend validations with REST Assured. Maintained trace matrices to ensure test scripts covered 100% of business requirements.
+
+EDUCATION:
+Bachelor of Computer Applications (BCA)
+Heritage Institute of Technology, 2021
+
+PROJECTS:
+- Banking Portal Test Automation Framework: Built a hybrid TestNG framework with Page Object Model (POM) architecture.
+- E-Commerce REST API Automated Test Suite: Developed automated API validation scripts using REST Assured and Java.
+
+CERTIFICATIONS:
+ISTQB Certified Tester - Foundation Level (CTFL)
+================================================================================

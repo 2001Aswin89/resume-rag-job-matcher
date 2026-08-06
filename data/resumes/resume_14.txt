@@ -1,0 +1,40 @@
+Vikram Singh Negi
+Email: vikram.negi.devops@outlook.com
+Phone: +91 98450 67890
+LinkedIn: linkedin.com/in/vikramnegi-ops
+GitHub: github.com/vikramnegi-ops
+
+SUMMARY
+Senior Infrastructure & DevOps Consultant with 10+ years of domain expertise in automating enterprise infrastructure, container orchestration, and disaster recovery. Expert in Kubernetes, Terraform, AWS, and Hybrid Cloud networks.
+
+SKILLS
+Cloud Platforms: AWS, Azure, GCP
+IaC & Configuration: Terraform, CloudFormation, Ansible, Puppet
+Containers & Orchestration: Docker, Kubernetes, Helm, OpenShift, ArgoCD
+CI/CD & Monitoring: Jenkins, GitLab CI, Prometheus, Grafana, Datadog, ELK Stack
+Scripting: Python, Bash, Go
+
+EXPERIENCE
+
+Lead DevOps Consultant | Thoughtworks
+01/2020 - Present
+- Designed resilient Kubernetes multi-region architecture for healthcare enterprise customers on AWS EKS, guaranteeing 99.99% uptime.
+- Led cloud migration of legacy mainframe applications to Docker containers, reducing compute costs by $300k annually.
+- Built GitOps continuous deployment pipelines with ArgoCD and Helm, enabling 50+ daily automated production deployments.
+
+Senior Systems Engineer | Wipro Technologies
+05/2016 - 12/2019
+- Built CI/CD pipelines using Jenkins and Ansible to automate build, test, and deployment workflows.
+- Managed enterprise Linux infrastructure, configuring Nginx load balancers, SSL certificates, and firewall rules.
+
+Infrastructure Engineer | HCL Technologies
+07/2013 - 04/2016
+- Administered Linux/Unix production servers and managed automated SAN storage backup routines with Bash scripting.
+
+EDUCATION
+B.Tech in Electrical & Electronics Engineering | Uttarakhand Technical University (2013)
+
+CERTIFICATIONS
+- Certified Kubernetes Security Specialist (CKS)
+- AWS Certified DevOps Engineer – Professional
+================================================================================

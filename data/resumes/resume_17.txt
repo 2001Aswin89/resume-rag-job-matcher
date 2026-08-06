@@ -1,0 +1,39 @@
+Rachel Green
+Email: rachel.green.qa@gmail.com
+Phone: +1 (555) 456-7890
+LinkedIn: linkedin.com/in/rachelgreen-qa
+GitHub: github.com/rachelgreen-qa
+
+SUMMARY:
+Senior QA Automation Lead with 8 years of experience building scalable test automation frameworks for web and mobile platforms. Specialized in Cypress, Playwright, Selenium, and CI/CD quality gates.
+
+TECHNICAL SKILLS:
+- Automation Tools: Cypress, Playwright, Selenium WebDriver, Appium
+- Languages: JavaScript, TypeScript, Python
+- Testing Types: End-to-End (E2E), Integration, API, Performance, Regression
+- Tools & Frameworks: Postman, JMeter, Jenkins, GitHub Actions, Jira, TestRail
+
+PROFESSIONAL EXPERIENCE:
+
+Lead QA Automation Engineer | Salesforce
+2022 - Present
+- Designed and executed a company-wide Playwright & TypeScript test framework, replacing legacy Selenium scripts and reducing test execution time by 60%.
+- Integrated automated regression suites into CI/CD pipelines, preventing high-severity bugs from reaching production.
+- Managed a team of 5 QA engineers across automation framework building and manual test planning.
+
+QA Test Automation Engineer | Workday
+03/2018 - 11/2021
+- Created automated E2E web tests using Cypress and JavaScript for enterprise HR modules.
+- Performed load and stress testing using Apache JMeter to evaluate system stability under 50k concurrent virtual users.
+
+Software QA Tester | Infosys (US Operations)
+06/2016 - 02/2018
+- Executed functional, smoke, and regression test cases for client web portals.
+- Logged and tracked software defects in Jira, coordinating closely with developers for timely resolution.
+
+EDUCATION:
+B.S. in Software Engineering | San Jose State University (2016)
+
+CERTIFICATIONS:
+ISTQB Advanced Level Test Automation Engineer
+================================================================================

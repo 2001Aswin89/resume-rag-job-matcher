@@ -1,0 +1,34 @@
+David Miller
+Email: david.miller.pm@gmail.com
+Phone: +1 (555) 321-9876
+LinkedIn: linkedin.com/in/davidmiller-product
+GitHub: github.com/davidmiller-pm
+
+SUMMARY
+Senior Product Manager with 11+ years of experience launching SaaS products, scaling B2B platforms, and leading cross-functional teams across engineering, UX, and marketing. Adept at product strategy, customer discovery, data analytics, and agile execution.
+
+TECHNICAL & MANAGEMENT SKILLS
+Product Strategy, Roadmapping, Agile/Scrum, User Research, SQL, Google Analytics, Mixpanel, Jira, Confluence, A/B Testing, Wireframing, Figma, Data-Driven Decision Making.
+
+EXPERIENCE
+
+Principal Product Manager | Microsoft
+2021 - Present
+Owned product vision and execution for enterprise collaboration tools used by 10M+ users. Increased quarterly active users (QAU) by 28% through data-driven feature prioritization and UX overhauls. Managed a $2M annual product development budget and led 3 cross-functional squads.
+
+Senior Product Manager | Salesforce
+03/2016 - 12/2020
+Launched automated CRM workflow features that generated $12M in ARR within the first year. Conducted 100+ customer discovery calls to refine product requirements and product-market fit. Defined clear PRDs, epics, and KPIs using Jira and Mixpanel.
+
+Product Owner | IBM
+06/2013 - 02/2016
+Managed backlog and sprint priorities for cloud management tools. Reduced customer onboarding drop-off rate by 18% using target A/B experiments.
+
+EDUCATION
+Master of Business Administration (MBA) | INSEAD (2013)
+Bachelor of Science in Computer Science | University of Illinois Urbana-Champaign (2011)
+
+AWARDS & ACHIEVEMENTS
+- Microsoft Annual Product Innovation Award (2023)
+- Keynote Speaker at ProductCon San Francisco (2022)
+================================================================================

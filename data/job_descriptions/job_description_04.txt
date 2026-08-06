@@ -1,0 +1,33 @@
+Job Title: Machine Learning / AI Engineer
+
+Company: Cortex Analytics Labs
+
+Summary:
+Cortex Analytics Labs is seeking a Machine Learning Engineer to design, build, and deploy production ML and LLM models. You will collaborate with data scientists to transition experimental models into scalable real-time inference services.
+
+Responsibilities:
+- Train, fine-tune, and evaluate deep learning models, Transformers, and statistical algorithms.
+- Deploy real-time ML inference services using Docker, FastAPI, and AWS SageMaker.
+- Build and maintain RAG systems using vector databases (Pinecone, Qdrant) and LLM orchestration tools.
+- Implement automated monitoring for model performance, drift, and latency.
+
+Required Skills:
+- Python, PyTorch or TensorFlow, Scikit-Learn, Pandas, NumPy.
+- FastAPI, Docker, Vector Databases (Qdrant, Pinecone), LangChain.
+- AWS SageMaker or GCP Vertex AI.
+
+Preferred Skills:
+- Experience fine-tuning open-source LLMs (Llama, Mistral) using LoRA/QLoRA.
+- Exposure to MLOps frameworks like MLflow.
+
+Must Have Requirements:
+- Must have 3+ years of Python experience.
+- Must have Machine Learning model deployment experience.
+- Must have AWS experience.
+
+Experience Required:
+3+ years of experience building and deploying machine learning applications.
+
+Education:
+Master's or Bachelor's degree in Computer Science, Data Science, Artificial Intelligence, or Statistics.
+================================================================================

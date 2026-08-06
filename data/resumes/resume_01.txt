@@ -1,0 +1,44 @@
+Rohan Sharma
+Email: rohan.sharma.dev@gmail.com | Phone: +91 98765 43210
+LinkedIn: linkedin.com/in/rohansharma-backend | GitHub: github.com/rohansharma-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Backend Engineer with 8+ years of core software development experience building high-throughput microservices and distributed systems. Proven track record at Google and enterprise financial tech startups in optimizing database performance, implementing event-driven architectures, and leading backend engineering teams.
+
+TECHNICAL SKILLS
+- Languages: Java, Go, Python, SQL
+- Frameworks: Spring Boot, gRPC, Hibernate, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis, Cassandra
+- Tools & Cloud: AWS (EC2, S3, SQS), Docker, Kubernetes, Kafka, Git, CI/CD
+
+WORK EXPERIENCE
+
+Google | Senior Software Engineer
+Jan 2022 - Present
+• Spearheaded the redesign of the core messaging pipeline using Go and Apache Kafka, improving message ingestion throughput by 40%.
+• Mentored a team of 6 junior and mid-level engineers across sprint design, code reviews, and architectural planning.
+• Optimized PostgreSQL query execution plans and database sharding models, cutting API P99 latency from 250ms to 45ms.
+
+Infosys | Module Lead - Java Technologies
+06/2018 - 12/2021
+• Developed high-volume RESTful APIs using Spring Boot for global banking clients, handling over 5M active daily transactions.
+• Migrated legacy monolithic Java applications into containerized microservices hosted on AWS EKS.
+• Integrated Redis caching layers to drastically reduce backend database server load during peak trading hours.
+
+TCS | Software Engineer
+Jul 2016 - May 2018
+• Built backend database migrations and internal administrative portals using Java, Spring MVC, and Oracle DB.
+• Created automated unit test suites with JUnit and Mockito, increasing system test coverage from 60% to 88%.
+
+PROJECTS
+- Distributed Distributed Key-Value Store: Built a replicated, fault-tolerant key-value store using Go and Raft consensus protocol.
+- Real-time Order Processing Engine: Architected an event-driven e-commerce transaction engine capable of handling 10,000 requests per second using Kafka and Spring Boot.
+
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+IIT Delhi | Graduated: 2016
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Professional, Java SE 11 Developer
+================================================================================

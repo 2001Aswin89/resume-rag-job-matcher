@@ -1,0 +1,32 @@
+Sneha Kulkarni
+Email: sneha.kulkarni.mobile@gmail.com
+Phone: +91 93210 54321
+LinkedIn: linkedin.com/in/snehakulkarni-mobile
+GitHub: github.com/snehakulkarni-mobile
+
+SUMMARY
+Mobile Application Developer with 5 years of experience building cross-platform and native applications for iOS and Android. Specialized in Flutter, React Native, and Swift.
+
+SKILLS
+Flutter, Dart, React Native, Swift, iOS Development, Android SDK, RESTful APIs, Firebase, SQLite, Redux, Git.
+
+EXPERIENCE
+
+Senior Mobile Engineer | Swiggy
+02/2022 - Present
+Maintained core Flutter modules for the primary consumer app, used by over 10 million users. Reduced app crash rates from 1.5% to 0.05% using crash reporting tools like Firebase Crashlytics. Implemented offline synchronization using Hive and SQLite local storage.
+
+Mobile Developer | TechStudio Apps
+06/2019 - 01/2022
+Built iOS applications using Swift and UIKit for fintech startups. Integrated payment gateways (Stripe, Razorpay) and OAuth social authentication systems.
+
+EDUCATION
+B.Tech in Computer Science | Mumbai University, 2019
+
+PROJECTS
+- Personal Finance Manager App: A Flutter-based expense tracking application featuring real-time charts and cloud backups.
+- Health Tracker iOS App: Built a native Swift application using Apple HealthKit integration for tracking daily steps and vitals.
+
+CERTIFICATIONS
+Google Associate Android Developer
+================================================================================

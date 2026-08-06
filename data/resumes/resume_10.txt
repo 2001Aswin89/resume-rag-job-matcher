@@ -1,0 +1,35 @@
+Karthik Subramanian
+Email: karthik.subramanian.fresher@gmail.com
+Phone: +91 98760 12345
+LinkedIn: linkedin.com/in/karthiksubramanian
+GitHub: github.com/karthik-subramanian
+
+OBJECTIVE
+Enthusiastic Computer Science graduate with strong fundamentals in algorithms, data structures, and Python programming, seeking an Entry-Level Backend Developer position.
+
+TECHNICAL SKILLS
+- Programming: Python, C++, SQL
+- Web Development: FastAPI, Django Basics, HTML, CSS
+- Databases: PostgreSQL, SQLite
+- Version Control: Git, GitHub
+- Operating Systems: Linux, Windows
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, Chennai
+Graduation: May 2024
+CGPA: 8.5/10
+
+ACADEMIC PROJECTS
+1. Intelligent Library Management System (Python, PostgreSQL)
+Created a command-line and web-based application using FastAPI and PostgreSQL to automate book tracking, dues calculation, and user registrations.
+2. File Encryption Utility (C++)
+Developed a secure file encryption software using AES-256 bits algorithm in C++.
+
+ACHIEVEMENTS
+- Secured 5-star rating in Python programming on HackerRank.
+- Finalist in Anna University Hackathon 2023.
+
+LANGUAGES
+English, Tamil
+================================================================================

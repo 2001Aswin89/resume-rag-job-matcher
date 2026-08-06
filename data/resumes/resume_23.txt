@@ -1,0 +1,35 @@
+Tarun Kapoor
+Email: tarun.kapoor.backend@gmail.com
+Phone: +91 99550 44332
+LinkedIn: linkedin.com/in/tarunkapoor-dev
+GitHub: github.com/tarunkapoor-dev
+
+SUMMARY
+Backend Software Engineer with 3 years of expertise building RESTful APIs and microservices using C# and .NET Core. Skilled in ASP.NET Core, Entity Framework Core, SQL Server, and Azure Cloud services.
+
+TECHNICAL SKILLS
+- Languages: C#, SQL
+- Frameworks: .NET Core / .NET 8, ASP.NET Core MVC, Web API, Entity Framework Core, LINQ
+- Databases: Microsoft SQL Server, PostgreSQL, Redis
+- Tools & Cloud: Azure (App Services, SQL Database), Docker, Git, Azure DevOps, Postman
+
+EXPERIENCE
+
+Software Developer (.NET) | Enterprise Systems Ltd.
+08/2023 - Present
+- Built and maintained scalable Web APIs using C#, .NET 8, and Entity Framework Core.
+- Designed relational database schemas and optimized complex stored procedures in SQL Server, reducing query execution times by 25%.
+- Implemented JWT token authentication and role-based authorization for enterprise web portals.
+
+Junior .NET Developer | SoftTech Solutions
+07/2021 - 07/2023
+- Developed backend features using ASP.NET Core MVC and C# for healthcare administration software.
+- Created unit tests using xUnit and Moq to ensure software reliability and test coverage above 80%.
+- Participated in daily Scrum stand-ups and code reviews via Azure DevOps.
+
+EDUCATION
+B.Tech in Computer Science | Amity University (2021)
+
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate (AZ-204)
+================================================================================

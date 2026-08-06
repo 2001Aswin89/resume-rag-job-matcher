@@ -1,0 +1,34 @@
+Nikhil Saxena
+Email: nikhil.saxena.ds@gmail.com
+Phone: +91 97170 98765
+LinkedIn: linkedin.com/in/nikhilsaxena-ds
+GitHub: github.com/nikhilsaxena-ds
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3 years of hands-on experience in statistical analysis, predictive modeling, and data visualization. Skilled in extracting actionable insights from large unstructured datasets using Python and SQL.
+
+TECHNICAL SKILLS
+- Programming & Libraries: Python, R, Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
+- Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, XGBoost, Clustering
+- Databases & Tools: SQL (PostgreSQL, BigQuery), Tableau, Power BI, Git, Jupyter
+
+EXPERIENCE
+
+Data Scientist | Mu Sigma
+10/2021 - Present
+• Developed predictive churn models using XGBoost and Logistic Regression for retail banking clients, identifying at-risk accounts with 84% accuracy.
+• Built interactive executive dashboards using Tableau and SQL on Google BigQuery to track operational KPIs.
+• Executed A/B testing statistical analyses to evaluate marketing campaign effectiveness.
+
+Data Analyst Intern | Analytics Quotient
+01/2021 - 08/2021
+• Cleaned and preprocessed large customer transaction datasets containing millions of rows using Python Pandas.
+• Conducted exploratory data analysis (EDA) to discover key consumer purchasing trends.
+
+EDUCATION
+B.S. in Applied Statistics | University of Delhi (2020)
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+================================================================================

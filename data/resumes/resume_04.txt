@@ -1,0 +1,36 @@
+MEGHNA CHOWDHURY
+Email: meghna.c.devops@yahoo.com
+Mobile: +91 97654 32109
+LinkedIn: linkedin.com/in/meghnachowdhury
+GitHub: github.com/meghna-ops
+
+SUMMARY
+DevOps and Infrastructure Engineer with 5 years of professional experience managing AWS and Azure cloud platforms. Specialized in Infrastructure as Code (IaC), Kubernetes orchestration, and continuous integration pipelines.
+
+TECHNICAL SKILLS
+Terraform, CloudFormation, Ansible, Kubernetes, Docker, Jenkins, GitHub Actions, AWS (EC2, EKS, S3, IAM, CloudWatch), Azure DevOps, Linux Administration, Shell Scripting, Python, Prometheus, Grafana.
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Engineer
+Accenture India | Bangalore
+Feb 2022 - Present
+Managed multi-region Kubernetes clusters on AWS EKS serving 2M+ monthly active users. Automated cloud infrastructure provisioning using Terraform, reducing environment creation time from 3 days to 20 minutes. Implemented centralized monitoring with Prometheus and Grafana, lowering incident mean time to resolution (MTTR) by 45%.
+
+Systems Engineer - Cloud
+TCS | Kolkata
+Nov 2019 - Jan 2022
+Configured CI/CD pipelines using Jenkins and Azure DevOps for hybrid enterprise applications. Written custom Shell and Python automation scripts to audit security compliance and auto-scale instances. Managed Docker registries and implemented security scanning tools like Trivy.
+
+PROJECTS
+- Multi-Cloud Infrastructure Template: Designed modular Terraform scripts to spin up secure multi-region AWS and Azure environments.
+- Zero-Downtime Deployment Pipeline: Built a Kubernetes GitOps deployment system using ArgoCD and GitHub Actions.
+
+EDUCATION
+B.Tech in Computer Science
+Kalinga Institute of Industrial Technology (KIIT), 2019
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+================================================================================

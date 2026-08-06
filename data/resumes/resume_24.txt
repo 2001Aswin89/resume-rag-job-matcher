@@ -1,0 +1,32 @@
+Meera Nambiar
+Email: meera.nambiar.ds@gmail.com
+Phone: +91 97440 55667
+LinkedIn: linkedin.com/in/meeranambiar-ds
+GitHub: github.com/meeranambiar-ds
+
+SUMMARY
+Data Scientist & AI Practitioner with 5 years of experience applying machine learning algorithms, deep learning models, and statistical analysis to solve business problems in fintech and retail domains.
+
+SKILLS
+Python, R, PyTorch, Scikit-Learn, Pandas, NumPy, SQL, BigQuery, TensorFlow, Tableau, Docker, AWS SageMaker.
+
+WORK EXPERIENCE
+
+Senior Data Scientist | HSBC India
+04/2022 - Present
+- Built machine learning fraud detection pipelines using LightGBM and PyTorch, saving an estimated $1.2M in annual fraudulent transactions.
+- Developed automated data cleaning and feature engineering pipelines processing terabytes of data on BigQuery.
+- Mentored junior data analysts and presented machine learning performance metrics to executive leadership.
+
+Data Scientist | LatentView Analytics
+08/2019 - 03/2022
+- Built customer lifetime value (CLV) and churn prediction models using Scikit-Learn and Python.
+- Created executive BI dashboards using Tableau connected directly to SQL databases.
+
+EDUCATION
+M.Sc. in Data Science | Chennai Mathematical Institute (CMI) (2019)
+B.Sc. in Mathematics | Loyola College, Chennai (2017)
+
+PROJECTS
+- Customer Segmentation Engine: Implemented unsupervised K-Means clustering to categorize customer behavior across e-commerce channels.
+================================================================================

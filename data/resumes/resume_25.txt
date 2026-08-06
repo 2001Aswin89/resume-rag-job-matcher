@@ -1,0 +1,35 @@
+Jason Miller
+Email: jason.miller.fullstack@gmail.com
+Phone: +1 (555) 678-1234
+LinkedIn: linkedin.com/in/jasonmiller-fs
+GitHub: github.com/jasonmiller-dev
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Engineer with 7 years of software development experience specializing in Node.js, React, TypeScript, and AWS serverless architectures. Adept at managing full software lifecycles from architecture design to production deployment.
+
+TECHNICAL SKILLS
+- Frontend: React.js, Next.js, TypeScript, JavaScript, HTML5/CSS3, Redux Toolkit, Tailwind CSS
+- Backend: Node.js, Express.js, GraphQL, REST APIs, Python
+- Databases: PostgreSQL, MongoDB, DynamoDB, Redis
+- Cloud & DevOps: AWS (Lambda, API Gateway, S3, CloudFront), Docker, GitHub Actions, Terraform
+
+EXPERIENCE
+
+Senior Full Stack Engineer | Atlassian
+03/2021 - Present
+• Designed and launched key collaborative canvas components using React, TypeScript, and WebSockets.
+• Built serverless backend microservices using Node.js, AWS Lambda, and DynamoDB handling over 2M daily API requests.
+• Improved frontend application performance and load metrics, achieving a 98/100 Lighthouse performance score.
+
+Full Stack Software Engineer | HubSpot
+06/2017 - 02/2021
+• Developed responsive user interfaces and marketing analytics tools using React and Redux.
+• Built RESTful APIs using Node.js, Express, and PostgreSQL to handle CRM data integrations.
+• Wrote automated unit and integration tests using Jest and React Testing Library.
+
+EDUCATION
+B.S. in Computer Science | Northeastern University (2017)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate
+================================================================================

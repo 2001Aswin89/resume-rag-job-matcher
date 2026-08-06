@@ -1,0 +1,36 @@
+Emily Chen
+Email: emily.chen.ui@gmail.com
+Phone: +1 (555) 234-5678
+LinkedIn: linkedin.com/in/emilychen-frontend
+GitHub: github.com/emilychen-ui
+
+SUMMARY
+Senior Frontend Architect with 9 years of expertise building modern, user-centric web applications. Specialist in Vue.js, React, Webpack/Vite performance optimization, and scalable micro-frontend architectures.
+
+SKILLS
+JavaScript (ESNext), TypeScript, Vue.js, Vuex/Pinia, React.js, Nuxt.js, HTML5/SASS, GraphQL, Cypress, Jest, Webpack, Vite, Storybook.
+
+WORK EXPERIENCE
+
+Lead Frontend Engineer | Stripe
+2021 - Present
+- Architected a micro-frontend platform powered by Vite and Module Federation, serving millions of global enterprise users.
+- Reduced initial bundle load sizes by 42% through aggressive tree-shaking, code-splitting, and asset optimization.
+- Spearheaded the design system migration across 12 product teams, building 50+ reusable, accessible Vue 3 components.
+
+Senior Web Developer | Adobe
+04/2017 - 12/2020
+- Developed real-time document editing tools using React, TypeScript, and WebAssembly.
+- Improved application rendering speed by 35% by rewriting state management flows using RxJS and Redux.
+
+Frontend Developer | Shopify
+08/2015 - 03/2017
+- Built merchant dashboard analytics modules with Vue.js and Chart.js.
+- Implemented comprehensive automated E2E testing pipelines using Cypress.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley (2015)
+
+PUBLICATIONS
+- "Optimizing Micro-Frontend Performance at Scale" – Tech Web Magazine (2023)
+================================================================================

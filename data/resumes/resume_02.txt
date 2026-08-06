@@ -1,0 +1,33 @@
+Aarav Patel
+Email: aarav.patel.frontend@outlook.com
+Phone: +91 91234 56789
+LinkedIn: linkedin.com/in/aaravpatel-ui
+GitHub: github.com/aaravpatel-ui
+
+SUMMARY
+Frontend Engineer with 4 years of experience crafting responsive, high-performance web applications using React, TypeScript, and modern JavaScript frameworks. Passionate about web performance optimization, accessible design (a11y), and state management.
+
+SKILLS
+React.js, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Tailwind CSS, HTML5/CSS3, GraphQL, Jest, Cypress, Webpack.
+
+EXPERIENCE
+
+Software Engineer (Frontend) | Webflow Solutions
+2023 - Present
+Developed complex data visualization dashboards using React, D3.js, and TypeScript. Reduced bundle size by 30% using code splitting and lazy loading techniques. Collaborated closely with UX designers to build an accessible design system compliant with WCAG 2.1 AA standards.
+
+Associate Frontend Developer | Zomato
+08/2021 - 12/2022
+Worked on the merchant onboarding portal using React.js and Redux. Reduced page load times by 1.2 seconds through image optimization and SSR using Next.js. Wrote end-to-end user journey automation scripts using Cypress and React Testing Library.
+
+EDUCATION
+B.E. in Information Technology
+Pune University, 2021
+
+PROJECTS
+1. UI Design System: Created an open-source React component library styled with Tailwind CSS, featuring 40+ accessible UI components.
+2. Crypto Tracker Dashboard: Developed a real-time cryptocurrency analytics platform consuming WebSocket APIs with live charting capabilities.
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+================================================================================

@@ -1,0 +1,37 @@
+Arjun Deshmukh
+Email: arjun.deshmukh.dev@gmail.com | Phone: +91 98220 11223
+LinkedIn: linkedin.com/in/arjundeshmukh-backend | GitHub: github.com/arjundeshmukh
+
+PROFESSIONAL SUMMARY
+Mid-Level Backend Developer with 4 years of hands-on experience in building scalable RESTful microservices and asynchronous data pipelines. Adept in Python, Django, FastAPI, and AWS deployment. Strong advocate for clean architecture, automated testing, and CI/CD best practices.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, SQL
+- Frameworks & Libraries: FastAPI, Django, Flask, Celery, SQLAlchemy
+- Databases & Caching: PostgreSQL, Redis, MySQL
+- Cloud & DevOps: AWS (EC2, S3, RDS), Docker, Git, GitHub Actions, Nginx
+
+EXPERIENCE
+
+Backend Engineer | Paytm
+03/2023 - Present
+• Designed and implemented high-volume payment processing microservices using FastAPI and PostgreSQL, processing 100k+ daily transaction payloads.
+• Reduced background task processing latency by 50% by integrating Celery with Redis as a message broker.
+• Wrote comprehensive unit and integration test suites using PyTest, maintaining 90%+ code coverage across microservices.
+
+Junior Python Developer | Software Solutions Ltd.
+07/2020 - 02/2023
+• Developed REST APIs for an e-commerce inventory management system using Django REST Framework.
+• Automated data extraction and database sync scripts using Python and SQL, saving 15 hours of weekly manual operations.
+• Configured Docker containers for local development environments and deployed apps to AWS EC2 via GitHub Actions.
+
+PROJECTS
+- Real-Time Notification Engine: Built an asynchronous notification server handling WebSockets and push notifications using Python FastAPI and Redis Pub/Sub.
+- Multi-Tenant SaaS Billing API: Designed a RESTful subscription management module with Stripe payment webhooks.
+
+EDUCATION
+B.Tech in Computer Engineering | Veermata Jijabai Technological Institute (VJTI), Mumbai (2020)
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate
+================================================================================

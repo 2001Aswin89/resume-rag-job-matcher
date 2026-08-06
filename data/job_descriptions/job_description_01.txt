@@ -1,0 +1,33 @@
+Job Title: Senior Backend Developer - Python & Cloud
+
+Company: CloudScale Tech Solutions
+
+Summary:
+CloudScale Tech Solutions is seeking a Senior Backend Engineer to join our core cloud data platform team. You will lead the architecture, design, and implementation of high-throughput RESTful microservices and data pipelines processing millions of daily events.
+
+Responsibilities:
+- Design, build, and maintain scalable, high-performance REST APIs and microservices.
+- Optimize database queries, caching strategies, and data models for high availability.
+- Collaborate with frontend engineers, product managers, and DevOps teams to deliver features.
+- Mentor junior software engineers and conduct thorough code reviews.
+
+Required Skills:
+- Deep expertise in Python, FastAPI, Django, or Flask.
+- Experience with relational databases like PostgreSQL and MySQL, and caching tools like Redis.
+- Knowledge of containerization (Docker) and CI/CD pipelines.
+
+Preferred Skills:
+- Experience with message brokers such as Apache Kafka or RabbitMQ.
+- Familiarity with modern frontend frameworks (React/Vue).
+
+Must Have Requirements:
+- Must have 5+ years of Python experience.
+- Must have AWS experience.
+- Must have Docker and REST API development expertise.
+
+Experience Required:
+5+ years in backend software engineering.
+
+Education:
+Bachelor’s degree in Computer Science, Software Engineering, or related field.
+================================================================================

@@ -1,0 +1,35 @@
+Tariq Mansoor
+Email: tariq.mansoor.cloud@gmail.com
+Phone: +91 96500 11223
+LinkedIn: linkedin.com/in/tariqmansoor-cloud
+GitHub: github.com/tariqmansoor
+
+SUMMARY
+Cloud Security & DevOps Engineer with 4 years of experience securing public cloud infrastructure (AWS/Azure) and building automated compliance infrastructure.
+
+SKILLS
+Cloud: AWS (IAM, CloudTrail, GuardDuty, Security Hub), Azure (Security Center)
+DevOps & IaC: Terraform, Docker, Kubernetes, Ansible, GitHub Actions
+Security Tools: Trivy, SonarQube, Vault, OWASP ZAP, Wireshark
+Scripting & OS: Python, Bash, Linux Administration
+
+EXPERIENCE
+
+Cloud Security Engineer | IBM Security
+01/2023 - Present
+• Implemented automated vulnerability scanning into DevSecOps pipelines using Trivy and SonarQube.
+• Configured AWS GuardDuty, CloudTrail, and Security Hub integrations for real-time security alerting.
+• Built Terraform scripts to enforce encrypted S3 buckets, restricted security groups, and automated IAM policies.
+
+Cloud Engineer | HCL Technologies
+08/2020 - 12/2022
+• Managed client cloud resources on AWS and Azure, configuring VPCs, VPN gateways, and subnets.
+• Wrote custom Python scripts to audit cloud resource compliance against CIS benchmarks.
+
+EDUCATION
+B.Tech in Information Technology | Jamia Millia Islamia, New Delhi (2020)
+
+CERTIFICATIONS
+- AWS Certified Security – Specialty
+- Certified Information Systems Security Professional (CISSP) - Associate
+================================================================================

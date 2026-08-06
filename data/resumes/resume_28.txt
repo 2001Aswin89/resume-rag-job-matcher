@@ -1,0 +1,34 @@
+Siddharth Menon
+Email: siddharth.menon.fresher@gmail.com
+Phone: +91 94470 98765
+LinkedIn: linkedin.com/in/siddharthmenon-dev
+GitHub: github.com/siddharthmenon-dev
+
+OBJECTIVE
+Recent Computer Science graduate with strong foundational knowledge in Java, Data Structures, Algorithms, and Web Development. Seeking an entry-level Software Engineer position to build enterprise applications.
+
+TECHNICAL SKILLS
+- Languages: Java, C, HTML5, CSS3, JavaScript
+- Frameworks: Spring Boot (Basic), React (Basic)
+- Databases: MySQL, SQLite
+- Tools: Git, GitHub, VS Code, Eclipse
+
+EDUCATION
+Bachelor of Technology in Computer Science & Engineering
+Cochin University of Science and Technology (CUSAT)
+Graduation: May 2024
+CGPA: 8.2/10
+
+ACADEMIC PROJECTS
+1. Online Course Registration Portal (Java, MySQL, HTML/CSS)
+Developed a Web application using Java Servlets, JSP, and MySQL that enables students to browse courses, register online, and view schedules.
+2. Personal Expense Tracker (React, JavaScript)
+Created a single-page frontend application using React and local storage to help users track monthly budgets.
+
+ACHIEVEMENTS & CERTIFICATIONS
+- Java Programming Masterclass Certification - Udemy
+- Winner, Campus Hackathon 2023 for best web utility app
+
+LANGUAGES
+English, Malayalam, Hindi
+================================================================================

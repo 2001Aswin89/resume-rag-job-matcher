@@ -1,0 +1,34 @@
+Job Title: Senior QA Automation Engineer
+
+Company: InnovateTech Systems
+
+Summary:
+InnovateTech Systems is looking for an experienced Senior QA Automation Engineer to lead quality engineering across our cloud platforms. You will design automated testing frameworks for web applications and backend REST APIs.
+
+Responsibilities:
+- Design, build, and extend test automation frameworks using Selenium, Cypress, or Playwright.
+- Conduct automated and manual API testing using Postman and REST Assured.
+- Integrate automated regression test suites into CI/CD pipelines (Jenkins/GitHub Actions).
+- Work alongside software developers in Agile sprints to log, track, and re-test bugs in Jira.
+
+Required Skills:
+- Selenium WebDriver, Playwright, or Cypress.
+- Java, Python, or JavaScript for test script development.
+- REST API testing using Postman or REST Assured.
+- TestNG, JUnit, or PyTest frameworks, Jenkins CI/CD.
+
+Preferred Skills:
+- Performance testing using JMeter or Locust.
+- Mobile automation testing with Appium.
+
+Must Have Requirements:
+- Must have 4+ years of QA Automation experience.
+- Must have Selenium WebDriver or Playwright experience.
+- Must have API testing experience.
+
+Experience Required:
+4+ years in software quality assurance and automation engineering.
+
+Education:
+Bachelor’s degree in Computer Science, Information Technology, or related discipline.
+================================================================================

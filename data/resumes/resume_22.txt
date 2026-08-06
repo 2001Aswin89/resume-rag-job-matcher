@@ -1,0 +1,34 @@
+Nisha Gupta
+Email: nisha.gupta.qa@gmail.com
+Phone: +91 98111 22334
+LinkedIn: linkedin.com/in/nishagupta-qa
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 4 years of experience specializing in automated web UI testing, API verification, and performance testing. Experienced with Selenium, Java, Cypress, and Postman in Agile development environments.
+
+SKILLS
+- Automation Tools: Selenium WebDriver, Cypress, Playwright
+- Languages: Java, JavaScript
+- API & Performance: Postman, REST Assured, JMeter
+- Process & Management: Jira, TestRail, Git, Jenkins, Agile/Scrum
+
+EXPERIENCE
+
+QA Automation Engineer | Mindtree
+01/2023 - Present
+• Designed and maintained automated UI regression suites using Cypress and JavaScript.
+• Executed API test scripts using Postman and REST Assured, verifying HTTP payloads and status codes for enterprise APIs.
+• Integrated automated test scripts into Jenkins CI/CD pipelines to run on daily code commits.
+
+Software Quality Analyst | Tech Mahindra
+06/2020 - 12/2022
+• Performed functional, integration, and manual regression testing for e-commerce platforms.
+• Logged and managed defects in Jira, collaborating with software developers to prioritize bug fixes.
+• Created comprehensive test plans and test case matrix documentation in TestRail.
+
+EDUCATION
+B.Tech in Information Technology | Delhi Technological University (DTU) (2020)
+
+CERTIFICATIONS
+ISTQB Certified Tester - Foundation Level (CTFL)
+================================================================================

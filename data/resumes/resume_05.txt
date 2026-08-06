@@ -1,0 +1,33 @@
+Vikramaditya Rao
+Email: vikram.rao.fullstack@gmail.com
+Phone: +91 98112 23344
+LinkedIn: linkedin.com/in/vikramrao-fs
+GitHub: github.com/vikramrao-dev
+
+Professional Summary
+Full Stack Software Engineer with 2 years of professional hands-on experience building web applications using the MERN stack (MongoDB, Express, React, Node.js). Highly adaptable developer skilled in API integration, modern JavaScript, and database management.
+
+Skills
+JavaScript, Node.js, Express.js, React, HTML5, CSS3, MongoDB, PostgreSQL, REST APIs, Git, Docker, Postman.
+
+Work Experience
+
+Full Stack Developer | Razorpay
+06/2023 - Present
+Developed scalable payment gateway integration widgets using React and Express. Optimized database indexing on MongoDB collections to decrease request lookup latencies. Written clean unit test cases using Jest and Supertest.
+
+Junior Web Developer | Tech Mahindra
+07/2022 - 05/2023
+Assisted in building internal employee portals using React, Node.js, and MySQL. Implemented JWT-based user authentication and role-based access control (RBAC).
+
+Projects
+- Task Orchestrator App: A full-stack web tool using React, Node.js, and Socket.io for live collaborative project task tracking.
+- E-Commerce Micro App: Built a full-stack shopping portal with Stripe payment gateway integration and PostgreSQL backend.
+
+Education
+B.Tech in Information Technology
+Vellore Institute of Technology (VIT), 2022
+
+Certifications
+Full Stack Web Development Certificate - Udemy
+================================================================================

@@ -1,0 +1,35 @@
+Job Title: Senior DevOps & Infrastructure Engineer
+
+Company: Apex Financial Systems
+
+Summary:
+Apex Financial Systems is hiring a Senior DevOps Engineer to manage, scale, and secure our enterprise multi-cloud infrastructure. You will build continuous delivery pipelines, automate infrastructure using Terraform, and maintain high-availability Kubernetes clusters.
+
+Responsibilities:
+- Build and maintain Infrastructure as Code (IaC) templates for automated provisioning across cloud providers.
+- Manage production-grade Kubernetes clusters, ensuring zero-downtime deployments and optimal resource usage.
+- Implement robust monitoring, alerting, and logging systems using Prometheus, Grafana, and ELK stack.
+- Collaborate with development teams to embed security and automation into CI/CD pipelines.
+
+Required Skills:
+- Terraform, CloudFormation, Ansible.
+- Docker, Kubernetes, Helm, ArgoCD.
+- Jenkins, GitHub Actions, GitLab CI.
+- AWS or Azure Cloud management, Shell scripting, Python.
+
+Preferred Skills:
+- Certified Kubernetes Administrator (CKA).
+- FinOps and cloud expenditure optimization background.
+
+Must Have Requirements:
+- Must have Kubernetes.
+- Must have AWS experience.
+- Must have Terraform experience.
+- Must have 5+ years of DevOps experience.
+
+Experience Required:
+5–10 years in DevOps, SRE, or Cloud Infrastructure Engineering.
+
+Education:
+B.S. or B.Tech in Computer Science, Engineering, or relevant technical domain.
+================================================================================

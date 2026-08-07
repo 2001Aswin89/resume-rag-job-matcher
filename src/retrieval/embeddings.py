@@ -17,18 +17,22 @@ class EmbeddingService:
         """
         Generate an embedding for a single text.
         """
-        return self.model.encode(
+        embedding = self.model.encode(
             text,
             convert_to_numpy=True,
             normalize_embeddings=True,
-        ).tolist()
+        )
+
+        return embedding.tolist()
 
     def embed_texts(self, texts: list[str]) -> list[list[float]]:
         """
         Generate embeddings for multiple texts.
         """
-        return self.model.encode(
+        embeddings = self.model.encode(
             texts,
             convert_to_numpy=True,
             normalize_embeddings=True,
-        ).tolist()
+        )
+
+        return embeddings.tolist()

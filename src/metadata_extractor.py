@@ -35,6 +35,46 @@ def extract_candidate_name(document: ResumeDocument) -> str:
     return "Unknown"
 
 
+def split_skills(value: str) -> list[str]:
+    """
+    Split skills on commas while ignoring commas inside parentheses.
+
+    Example:
+        AWS (EC2, S3, SQS), Docker, Kubernetes
+
+    becomes
+
+        [
+            "AWS (EC2, S3, SQS)",
+            "Docker",
+            "Kubernetes"
+        ]
+    """
+    skills = []
+    current = []
+    depth = 0
+
+    for char in value:
+        if char == "(":
+            depth += 1
+        elif char == ")":
+            depth = max(depth - 1, 0)
+
+        if char == "," and depth == 0:
+            skill = "".join(current).strip()
+            if skill:
+                skills.append(skill)
+            current = []
+        else:
+            current.append(char)
+
+    final_skill = "".join(current).strip()
+    if final_skill:
+        skills.append(final_skill)
+
+    return skills
+
+
 def extract_skills(chunks: list[ResumeChunk]) -> list[str]:
     """
     Extract skills from sections containing 'skills'.
@@ -48,21 +88,20 @@ def extract_skills(chunks: list[ResumeChunk]) -> list[str]:
         for line in chunk.text.splitlines():
             line = line.strip("-• ").strip()
 
+            if not line:
+                continue
+
             if ":" in line:
                 _, value = line.split(":", 1)
 
-                for skill in value.split(","):
-                    skill = skill.strip()
-
+                for skill in split_skills(value):
                     if skill:
                         skills.append(skill)
             else:
-                if line:
-                    skills.append(line)
+                skills.append(line)
 
     # Remove duplicates while preserving order
     return list(dict.fromkeys(skills))
-
 
 def extract_experience_years(document: ResumeDocument) -> float:
     """

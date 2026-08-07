@@ -1,7 +1,7 @@
 from pathlib import Path
 
 import pdfplumber
-
+from src.models import ResumeDocument
 
 SUPPORTED_EXTENSIONS = {".txt", ".pdf"}
 
@@ -24,7 +24,7 @@ def load_pdf_file(file_path: Path) -> str:
     return "\n".join(pages).strip()
 
 
-def load_document(file_path: Path) -> dict:
+def load_document(file_path: Path) -> ResumeDocument:
     """
     Load a single resume or job description.
 
@@ -45,14 +45,14 @@ def load_document(file_path: Path) -> dict:
     else:
         text = load_pdf_file(file_path)
 
-    return {
-        "filename": file_path.name,
-        "path": file_path.as_posix(),
-        "raw_text": text,
-    }
+    return ResumeDocument(
+        filename=file_path.name,
+        path=file_path.as_posix(),
+        raw_text=text,
+    )
 
 
-def load_documents(folder_path: str | Path) -> list[dict]:
+def load_documents(folder_path: str | Path) -> list[ResumeDocument]:
     """
     Load every supported document from a folder.
     """

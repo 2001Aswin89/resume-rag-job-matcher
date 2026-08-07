@@ -1,5 +1,5 @@
 import re
-
+from src.models import ResumeChunk
 
 SECTION_HEADERS = [
     "Summary",
@@ -26,7 +26,7 @@ HEADER_PATTERN = re.compile(
 )
 
 
-def chunk_resume(text: str) -> list[dict]:
+def chunk_resume(text: str) -> list[ResumeChunk]:
     """
     Split a resume into logical sections.
 
@@ -43,10 +43,10 @@ def chunk_resume(text: str) -> list[dict]:
 
     if not matches:
         return [
-            {
-                "section": "General",
-                "text": text.strip(),
-            }
+            ResumeChunk(
+                section="General",
+                text=text.strip(),
+            )
         ]
 
     chunks = []
@@ -66,10 +66,10 @@ def chunk_resume(text: str) -> list[dict]:
 
         if section_text:
             chunks.append(
-                {
-                    "section": section,
-                    "text": section_text,
-                }
+                ResumeChunk(
+                    section=section,
+                    text=section_text,
+                )
             )
 
     return chunks

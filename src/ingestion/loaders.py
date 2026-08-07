@@ -1,5 +1,6 @@
 from pathlib import Path
 
+# pyrefly: ignore [missing-import]
 import pdfplumber
 from src.models import ResumeDocument
 

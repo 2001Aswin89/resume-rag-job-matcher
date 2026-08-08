@@ -16,9 +16,50 @@ def normalize_score(score: float) -> float:
 
 def extract_required_skills(job_description: str) -> list[str]:
     """
-    Extract skills from the Required Skills section.
+    Extract recognizable technical skills from the
+    Required Skills section using a curated vocabulary.
     """
-    skills = []
+    skill_vocabulary = [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "GCP",
+        "REST API",
+        "GraphQL",
+        "React",
+        "Vue",
+        "Angular",
+        "Node.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Go",
+        "C++",
+        "C#",
+        "Spring Boot",
+        "Kafka",
+        "RabbitMQ",
+        "CI/CD",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Jenkins",
+        "Terraform",
+        "Ansible",
+        "Linux",
+        "SQL",
+    ]
+
+    required_section = []
     capture = False
 
     for line in job_description.splitlines():
@@ -34,30 +75,105 @@ def extract_required_skills(job_description: str) -> list[str]:
             continue
 
         if capture:
-            if stripped.endswith(":"):
+            # Stop at the next named section.
+            if (
+                lowered.startswith("preferred skills")
+                or lowered.startswith("must have")
+                or lowered.startswith("experience required")
+                or lowered.startswith("education")
+                or lowered.startswith("responsibilities")
+            ):
                 break
 
-            cleaned = stripped.lstrip("-• ").strip()
+            required_section.append(stripped)
 
-            for skill in re.split(r",|/|\band\b", cleaned):
-                skill = skill.strip()
+    text = " ".join(required_section)
 
-                if skill:
-                    skills.append(skill)
+    found = []
 
-    return list(dict.fromkeys(skills))
+    for skill in sorted(
+        skill_vocabulary,
+        key=len,
+        reverse=True,
+    ):
+        pattern = rf"(?<![\w+#]){re.escape(skill)}(?![\w+#])"
 
+        if re.search(
+            pattern,
+            text,
+            re.IGNORECASE,
+        ):
+            found.append(skill)
+
+    # Preserve vocabulary order rather than
+    # regex discovery order.
+    vocabulary_lower = {
+        skill.lower(): skill
+        for skill in skill_vocabulary
+    }
+
+    return [
+        vocabulary_lower[skill.lower()]
+        for skill in skill_vocabulary
+        if skill.lower() in {
+            found_skill.lower()
+            for found_skill in found
+        }
+    ]
 
 def extract_must_have_skills(
     job_description: str,
     required_skills: list[str],
 ) -> list[str]:
     """
-    Extract explicit must-have skills by matching them against
-    the skills listed in the Required Skills section.
-    """
-    must_have_text = []
+    Extract technical skills explicitly mentioned in the
+    Must Have Requirements section.
 
+    Skills are detected independently from required_skills so
+    that a skill mentioned only in the must-have section, such
+    as AWS or REST API, is still recognized.
+    """
+    skill_vocabulary = [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "GCP",
+        "REST API",
+        "GraphQL",
+        "React",
+        "Vue",
+        "Angular",
+        "Node.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Go",
+        "C++",
+        "C#",
+        "Spring Boot",
+        "Kafka",
+        "RabbitMQ",
+        "CI/CD",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Jenkins",
+        "Terraform",
+        "Ansible",
+        "Linux",
+        "SQL",
+    ]
+
+    must_have_lines = []
     capture = False
 
     for line in job_description.splitlines():
@@ -73,16 +189,47 @@ def extract_must_have_skills(
             continue
 
         if capture:
-            must_have_text.append(stripped)
+            if (
+                lowered.startswith("experience required")
+                or lowered.startswith("education")
+                or lowered.startswith("preferred skills")
+                or lowered.startswith("responsibilities")
+            ):
+                break
 
-    text = " ".join(must_have_text).lower()
+            must_have_lines.append(stripped)
+
+    text = " ".join(must_have_lines)
+
+    found = []
+
+    # Check longer/more specific skills first so that
+    # "CI/CD" is detected rather than incorrectly matching "CI".
+    for skill in sorted(
+        skill_vocabulary,
+        key=len,
+        reverse=True,
+    ):
+        pattern = rf"(?<![\w+#]){re.escape(skill)}(?![\w+#])"
+
+        if re.search(
+            pattern,
+            text,
+            re.IGNORECASE,
+        ):
+            found.append(skill)
+
+    # Return skills in vocabulary order.
+    found_lower = {
+        skill.lower()
+        for skill in found
+    }
 
     return [
         skill
-        for skill in required_skills
-        if skill.lower() in text
+        for skill in skill_vocabulary
+        if skill.lower() in found_lower
     ]
-
 
 def calculate_skill_overlap(
     candidate_skills: list[str],

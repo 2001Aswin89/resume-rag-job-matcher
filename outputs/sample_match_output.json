@@ -1,0 +1,28 @@
+{
+  "job_description": "Job Title: Senior Backend Developer - Python & Cloud\n\nCompany: CloudScale Tech Solutions\n\nSummary:\nCloudScale Tech Solutions is seeking a Senior Backend Engineer to join our core cloud data platform team. You will lead the architecture, design, and implementation of high-throughput RESTful microservices and data pipelines processing millions of daily events.\n\nResponsibilities:\n- Design, build, and maintain scalable, high-performance REST APIs and microservices.\n- Optimize database queries, caching strategies, and data models for high availability.\n- Collaborate with frontend engineers, product managers, and DevOps teams to deliver features.\n- Mentor junior software engineers and conduct thorough code reviews.\n\nRequired Skills:\n- Deep expertise in Python, FastAPI, Django, or Flask.\n- Experience with relational databases like PostgreSQL and MySQL, and caching tools like Redis.\n- Knowledge of containerization (Docker) and CI/CD pipelines.\n\nPreferred Skills:\n- Experience with message brokers such as Apache Kafka or RabbitMQ.\n- Familiarity with modern frontend frameworks (React/Vue).\n\nMust Have Requirements:\n- Must have 5+ years of Python experience.\n- Must have AWS experience.\n- Must have Docker and REST API development expertise.\n\nExperience Required:\n5+ years in backend software engineering.\n\nEducation:\nBachelor’s degree in Computer Science, Software Engineering, or related field.\n================================================================================\n",
+  "top_matches": [
+    {
+      "candidate_name": "Jason Miller",
+      "resume_path": "data/resumes/resume_25.pdf",
+      "match_score": 28.11,
+      "matched_skills": [
+        "Python",
+        "PostgreSQL",
+        "Redis",
+        "Docker"
+      ],
+      "experience_years": 7.0,
+      "relevant_excerpts": [
+        {
+          "section": "EXPERIENCE",
+          "text": "Senior Full Stack Engineer | Atlassian\n03/2021 - Present\n(cid:127) Designed and launched key collaborative canvas components using React, TypeScript, and WebSockets.\n(cid:127) Built serverless backend microservices using Node.js, AWS Lambda, and DynamoDB handling over 2M daily API\nrequests.\n(cid:127) Improved frontend application performance and load metrics, achieving a 98/100 Lighthouse performance score.\nFull Stack Software Engineer | HubSpot\n06/2017 - 02/2021\n(cid:127) Developed responsive user interfaces and marketing analytics tools using React and Redux.\n(cid:127) Built RESTful APIs using Node.js, Express, and PostgreSQL to handle CRM data integrations.\n(cid:127) Wrote automated unit and integration tests using Jest and React Testing Library."
+        },
+        {
+          "section": "PROFESSIONAL SUMMARY",
+          "text": "Senior Full Stack Engineer with 7 years of software development experience specializing in Node.js, React, TypeSc\nript, and AWS serverless architectures. Adept at managing full software lifecycles from architecture design to produ\nction deployment."
+        }
+      ],
+      "reasoning": "Matched on Python, PostgreSQL, Redis, Docker; relevant experience found in EXPERIENCE, PROFESSIONAL SUMMARY."
+    }
+  ]
+}
